@@ -1,5 +1,7 @@
-![Uploading 212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif…]()
 <h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
+![212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63](https://github.com/user-attachments/assets/ec68b1ad-13f3-465f-a40d-a49f6f7cb269)
+
+
 <h3 align="center">A passionate Full Stack developer from Bihar, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam0827&label=Profile%20views&color=0e75b6&style=flat" alt="satyam0827" /> </p>
