@@ -1,13 +1,13 @@
 <h1 align="center" style="border-bottom: 2px solid gray; padding-bottom: 10px;">Hi 👋, I'm Satyam Kumar</h1>
+<h3 align="center">A passionate Full Stack developer from Bihar, India</h3>
 
 ![212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63](https://github.com/user-attachments/assets/ec68b1ad-13f3-465f-a40d-a49f6f7cb269)
 ![Coding GIF](https://private-user-images.githubusercontent.com/74038190/325895827-ad50585b-2e08-4f45-9836-9bb6d67e2a86.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU5NjA1OTMsIm5iZiI6MTcyNTk2MDI5MywicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU4MjctYWQ1MDU4NWItMmUwOC00ZjQ1LTk4MzYtOWJiNmQ2N2UyYTg2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTEwVDA5MjQ1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQwYTllOWM1MDk1MzBiMjcwYjFmNjgyODZlNjg3MmE1ZmNmM2YxMmZiNTNlOTlhMTNlYTI3MjhhNDE0NzI3ZTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.0mNcQKckf-PZC-G3IJtJIjdSQAEaX2cQsYABrMUw7Zs)
 
 
-<h3 align="center">A passionate Full Stack developer from Bihar, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam0827&label=Profile%20views&color=0e75b6&style=flat" alt="satyam0827" /> </p>
-add border after each heading and also add more space to look more  clean
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Full Stack web Development**
@@ -15,7 +15,7 @@ add border after each heading and also add more space to look more  clean
 - 💬 Ask me about **react, java ,node, html css**
 
 - 📫 How to reach me **ajsatyamydv@gmail.com**
-
+<span  style="border-bottom: 2px solid gray; padding-bottom: 10px;></span>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ajsatyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajsatyam" height="30" width="40" /></a>
