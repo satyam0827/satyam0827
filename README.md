@@ -1,3 +1,4 @@
+![Uploading 212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif…]()
 <h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
 <h3 align="center">A passionate Full Stack developer from Bihar, India</h3>
 
