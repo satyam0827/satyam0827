@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ajsatyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajsatyam" height="30" width="40" /></a>
 <a href="https://instagram.com/its_satyam_.kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_satyam_.kumar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ajsatyamydv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajsatyamydv" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left"  style="border-bottom: 2px solid gray; padding-bottom: 10px;">Languages and Tools:</h3>
