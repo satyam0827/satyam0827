@@ -4,7 +4,6 @@
 ![212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63](https://github.com/user-attachments/assets/ec68b1ad-13f3-465f-a40d-a49f6f7cb269)
 ![Coding GIF](https://private-user-images.githubusercontent.com/74038190/325895827-ad50585b-2e08-4f45-9836-9bb6d67e2a86.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU5NjA1OTMsIm5iZiI6MTcyNTk2MDI5MywicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU4MjctYWQ1MDU4NWItMmUwOC00ZjQ1LTk4MzYtOWJiNmQ2N2UyYTg2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTEwVDA5MjQ1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQwYTllOWM1MDk1MzBiMjcwYjFmNjgyODZlNjg3MmE1ZmNmM2YxMmZiNTNlOTlhMTNlYTI3MjhhNDE0NzI3ZTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.0mNcQKckf-PZC-G3IJtJIjdSQAEaX2cQsYABrMUw7Zs)
 
-[![An image of @ajsatyam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ajsatyam)](https://holopin.io/@ajsatyam)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam0827&label=Profile%20views&color=0e75b6&style=flat" alt="satyam0827" /> </p>
 
