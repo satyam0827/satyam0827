@@ -25,8 +25,7 @@
 [![An image of @satyam0827's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/satyam0827)](https://holopin.io/@satyam0827)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam0827&label=Profile%20views&color=0e75b6&style=flat" alt="satyam0827" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 - 🔭 I’m currently working on **Full Stack web Development**
 
 - 💬 Ask me about **react, java ,node, html css**
