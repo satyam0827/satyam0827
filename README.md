@@ -22,7 +22,7 @@
 </div>
 </details>
 <div>
- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy) 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=satyam0827)](https://github.com/satyam0827/github-profile-trophy) 
 </div>
 <br>
 [![An image of @satyam0827's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/satyam0827)](https://holopin.io/@satyam0827)
