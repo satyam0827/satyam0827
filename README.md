@@ -21,7 +21,10 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
 </details>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy) <br>
+<div>
+ [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy) 
+</div>
+<br>
 [![An image of @satyam0827's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/satyam0827)](https://holopin.io/@satyam0827)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam0827&label=Profile%20views&color=0e75b6&style=flat" alt="satyam0827" /> </p>
 
