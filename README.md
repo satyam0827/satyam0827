@@ -30,7 +30,7 @@
 
 - 💬 Ask me about **react, java ,node, html css**
 
-- 📫 How to reach me **ajsatyamydv@gmail.com**
+- 📫 How to reach me **jhajhasatyam100@gmail.com**
 </div>
 <p  style="border-bottom: 2px solid gray; padding-bottom: 10px;></p>
 <h3 align="left"  style="border-bottom: 2px solid gray; padding-bottom: 10px;">Connect with me:</h3>
