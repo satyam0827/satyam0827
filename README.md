@@ -88,7 +88,7 @@
 
 ---
 
-### 📊 LeetCode Stats
+### 📊 LeetCode Badges
 
 <p align="center">
   <a href="https://leetcode.com/satyam0827">
@@ -99,7 +99,13 @@
 </p>
 
 ---
+<p align="center">
+  <!-- GIF Badges -->
+  <img src="https://github.com/satyam0827/satyam0827/" width="80" alt="100 Days Badge 2025" />
+ 
+</p>
 
+---
 <p align="center">
   ✨ Thank you for visiting my profile! ✨
 </p>
