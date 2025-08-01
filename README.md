@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
 <h3 align="center">A passionate Full Stack Developer from Bihar, India</h3>
 
----
-
 <p align="center">
   <img src="https://github.com/satyam0827/satyam0827/blob/main/images/myimage.gif" alt="Profile Banner"/>
 </p>
@@ -46,8 +44,8 @@
 ### ✨ About Me
 
 - 🚀 Currently working on **Full Stack Web Development Projects**
-- 💬 Ask me about **React, Java, Node.js, HTML/CSS**
-- 📧 Reach me at **jhajhasatyam100@gmail.com**
+- 💬 Ask me about **React, Java, Node.js, javaScript, HTML/CSS**
+-  📧 Reach me at **jhajhasatyam100@gmail.com**
 
 ---
 
@@ -93,17 +91,12 @@
 ### 📊 LeetCode Badges
 
 <p align="center">
-  <a href="https://leetcode.com/satyam0827">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
-  </a>
-  <img src="https://img.shields.io/badge/Solved-500+-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Language-Java-yellow?style=for-the-badge"/>
-</p>
-
----
-<p align="center">
   <!-- GIF Badges -->
-  <img src="https://github.com/satyam0827/satyam0827/" width="80" alt="100 Days Badge 2025" />
+  <img src="https://github.com/satyam0827/satyam0827/blob/main/images/feb.gif" width="80" alt="100 Days Badge 2025" />
+  <img src="https://github.com/satyam0827/satyam0827/blob/main/images/july.gif" width="80" alt="100 Days Badge 2025" />
+  <img src="https://github.com/satyam0827/satyam0827/blob/main/images/50 days.gif" width="80" alt="100 Days Badge 2025" />
+  <img src="https://github.com/satyam0827/satyam0827/blob/main/images/50 days in 2025.gif" width="80" alt="100 Days Badge 2025" />
+  <img src="https://github.com/satyam0827/satyam0827/blob/main/images/100 days in 2025.gif" width="80" alt="100 Days Badge 2025" />
  
 </p>
 
