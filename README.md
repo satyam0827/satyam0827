@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from Bihar, India</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ec68b1ad-13f3-465f-a40d-a49f6f7cb269/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63" alt="Profile Banner"/>
+  <img src="https://github.com/satyam0827/satyam0827/blob/main/images/myimage.gif" alt="Profile Banner"/>
 </p>
 
 <p align="center">
