@@ -5,9 +5,7 @@
   <img src="https://github.com/satyam0827/satyam0827/blob/main/images/myimage.gif" alt="Profile Banner"/>
 </p>
 
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/325895827-ad50585b-2e08-4f45-9836-9bb6d67e2a86.gif" alt="Coding GIF" height="200"/>
-</p>
+
 
 ---
 
